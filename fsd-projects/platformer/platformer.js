@@ -27,7 +27,7 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    // toggleGrid();
+     toggleGrid();
 
 
     // TODO 2 - Create Platforms
@@ -36,6 +36,7 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
+        createCollectable(max X ,y) 
 
 
 
